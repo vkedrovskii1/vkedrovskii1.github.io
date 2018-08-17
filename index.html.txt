@@ -1,0 +1,5 @@
+<html>
+<body>
+	<h1 style="color: green; font-weigh: bold; text-shadow: 1px 1px 1px black">Сайт находится в разработке. Скоро тут будет много интересного :)</h1>
+</body>
+</html>
